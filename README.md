@@ -1,1 +1,1 @@
-"# Citrix-Optimizer-Templates" 
+Citrix Optimizer Templates
