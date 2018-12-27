@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <metadata>
+    <name>John B. CtxO Marketplace</name>
+    <description>This marketplace contains templates provided by John Billekens</description>
+    <author>Jonh Billekens</author>
+    <email>john@j81.nl</email>
+    <website>blog.j81.nl</website>
+  </metadata>
+  <templates>
+    <template>
+      <id>3rd_Party_Components</id>
+      <version>0.1</version>
+      <displayname>3rd Party Components</displayname>
+      <description>Removes scheduled tasks and services for 3rd parties like Adobe and Google</description>
+      <category>OS Optimizations</category>
+      <author>John Billekens</author>
+      <updatedate>27/12/2018</updatedate>
+      <url>https://raw.githubusercontent.com/j81blog/Citrix-Optimizer-Templates/master/3rd_Party_Components.xml</url>
+      <checksum />
+      <beta>true</beta>
+    </template>
+  </templates>
+</root>
